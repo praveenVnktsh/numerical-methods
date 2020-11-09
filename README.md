@@ -1,7 +1,7 @@
 # Numerical Methods - Mathematics
 
 
-This repository contains a python implementation of several numerical methods for solving Integrals, Linear Equations, and Ordinary differential equations.
+This repository contains python implementations of several numerical methods for solving Integrals, Linear Equations, and Ordinary differential equations.
 
 ### Methods Covered
 
